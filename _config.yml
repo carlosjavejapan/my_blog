@@ -1,7 +1,7 @@
 # Site
-name: "My Blog カルロスのブログ"
+name: "CARLOS BLOG"
 title: "Carlos Blog カルロス　ブログ"
-description: "blog, carlos jave, カルロスのブログ, bloggers."
+description: "趣味、生活、物語、出来事、学習用などのサイト。"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: /my_blog/
