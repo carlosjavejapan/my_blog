@@ -2,7 +2,7 @@
 name: "CARLOS BLOG"
 title: "Carlos Blog カルロス　ブログ"
 description: "趣味、生活、物語、出来事、学習用などのサイト。"
-logo: 'assets/images/logo.png'
+logo: 'assets/images/svg/logo1.svg'
 favicon: 'assets/images/logo.png'
 baseurl: /my_blog
 google_analytics: 'UA-46278016-1'
