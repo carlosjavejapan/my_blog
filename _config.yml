@@ -2,7 +2,7 @@
 name: "CARLOS BLOG"
 title: "Carlos Blog カルロス　ブログ"
 description: "趣味、生活、物語、出来事、学習用などのサイト。"
-logo: 'assets/images/svg/logo1.svg'
+logo: 'assets/images/svg/logo1.png'
 favicon: 'assets/images/logo.png'
 baseurl: /my_blog
 google_analytics: 'UA-46278016-1'
@@ -67,6 +67,6 @@ adsense-data-ad-client: "ca-pub-3412143450191416"
 adsense-data-ad-slot: "1363087678"
 
 # Lazy Images ("enabled" or "disabled")
-lazyimages: "disabled"
+lazyimages: "enabled"
 
 exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
